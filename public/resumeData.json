@@ -2,9 +2,9 @@
   "main": {
     "name": "Mark Leung",
     "occupation": "ReactJS Developer",
-    "description": "Passionate tech enthusiast with interest in the latest web technologies",
+    "description": "",
     "image": "IG_Mark.jpg",
-    "bio": "My name is Mark, I'm a Full Stack ReactJS Developer. ",
+    "bio": "Mark is a passionate and self-driven developer culminated through his 9+ years of experience designing and building enterprise software solutions.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "mark.leung89@gmail.com",
     "phone": "+6140 340 6286",
@@ -18,28 +18,23 @@
     "resumedownload": "http://timbakerdev.com",
     "social": [
       {
-        "name": "facebook",
-        "url": "https://www.facebook.com/mcleung89",
-        "className": "fa fa-facebook"
-      },
-      {
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/mcleung89",
         "className": "fa fa-linkedin"
       },
       {
         "name": "github",
-        "url": "http://github.com/mcleung89",
+        "url": "http://github.com/m23leung",
         "className": "fa fa-github"
       }
     ]
   },
   "resume": {
-    "skillmessage": "Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage": "Current stack focus on React, Node JS, Express JS and MERN stack applications.",
     "education": [
       {
         "school": "University of Waterloo",
-        "degree": "Bachelors of Computer Science",
+        "degree": "Bachelors of Computer Science w/ Minor in Economics",
         "graduated": "June 2012",
         "description": "Graduated with Distinction"
       }
@@ -47,16 +42,46 @@
     "work": [
       {
         "company": "Medibank",
-        "title": "Technical Analyst",
-        "years": "November 2016 - Present",
-        "description": "ABAP Developer with front-end Javascript focus."
+        "title": "Technical Consultant",
+        "years": "Nov 2016 - Present",
+        "description": "Medibank is an Australian private health insurance provider. It is Australia's second largest health insurance provider, behind Bupa with 3.5 million members, 26.9% of the market across two brands. My position as a Technology Consultant consists of designing and implementing front-end and back-end enhancements using latest web technologies such as JavaScript and SAP UI5."
       },
       {
         "company": "SAP",
-        "title": "Technical Consultant",
-        "years": "May 2012 - October 2016",
-        "description": "Professional Consultant with specialization in SAP technologies."
-      }
+        "title": "Technology Consultant",
+        "years": "May 2012 - Oct 2016",
+        "description": "SAP SE is a German multinational software corporation that makes enterprise software to manage business operations and customer relations. The company is especially known for its ERP software. In terms of revenue, SAP is the largest European and the world's third largest listed software company."
+      },
+      {
+        "company": "Ontario Teacher's Pension Plan",
+        "title": "Programmer Analyst",
+        "years": "May 2011 - Aug 2011",
+        "description": "The Ontario Teachers' Pension Plan Board is an independent organization responsible for administering defined-benefit pensions for school teachers of the Canadian province of Ontario. Ontario Teachers' also invests the plan's pension fund, and is one of the world’s largest institutional investors."
+      },
+      {
+        "company": "TELUS",
+        "title": "Software Developer",
+        "years": "Sept 2010 - Dec 2010",
+        "description": "Telus Communications Inc. is the wholly owned principal subsidiary of Telus Corporation, a Canadian national telecommunications company that provides a wide range of telecommunications products and services including internet access, voice, entertainment, healthcare, video, and IPTV television."
+      },
+      {
+        "company": "Symantec",
+        "title": "QA Analyst",
+        "years": "Jan 2010 - April 2010",
+        "description": "NortonLifeLock Inc. (Formerly Symantec) is an American software company headquartered in Tempe, Arizona, United States. The company provides cybersecurity software and services. NortonLifeLock is a Fortune 500 company and a member of the S&P 500 stock-market index."
+      },
+      {
+        "company": "ecobee",
+        "title": "Web Services Developer",
+        "years": "May 2009 - August 2009",
+        "description": "ecobee is a Canadian home automation company that makes smart thermostats, temperature and occupancy sensors, smart light switches, smart cameras, and contact sensors. The thermostats are controlled by using the built-in touchscreen, web portal, or app available for iOS, Android, and the Apple Watch."
+      },
+      {
+        "company": "Maxxian Integrations",
+        "title": "Software Developer",
+        "years": "Jan 2008 - April 2008 / Sept 2008 - Dec 2008",
+        "description": "Maxxian is a start-up company focusing on the design and development of distributed architecture solutions for auditing, real-time operations and data warehouse applications for cable operators."
+      }               
     ],
     "skills": [
       {
@@ -64,16 +89,20 @@
         "level": "100%"
       },
       {
+        "name": "JavaScript",
+        "level": "100%"
+      },   
+      {
+        "name": "Node",
+        "level": "60%"
+      },             
+      {
         "name": "CSS",
         "level": "95%"
       },
       {
         "name": "Git",
         "level": "60%"
-      },
-      {
-        "name": "Figma && Adobe XD",
-        "level": "55%"
       },
       {
         "name": "HTML5",
@@ -88,16 +117,16 @@
   "portfolio": {
     "projects": [
       {
-        "title": "COVID-19 Tracker",
-        "category": "COVID-19 Tracker built with ReactJS",
+        "title": "Spotify Clone App",
+        "category": "Spotify Clone built with ReactJS",
         "image": "whatsapp-mern.jpeg",
         "url": ""
       },
       {
-        "title": "MERN Stack TikTok Clone",
-        "category": "TikTok Clone built with MERN (MongoDB, ExpressJS, ReactJS, NodeJS)",
+        "title": "COVID-19 Tracker",
+        "category": "COVID-19 Tracker built with ReactJS",
         "image": "tiktok-mern.jpeg",
-        "url": "https://www.youtube.com/watch?v=g8yGxDMyGiE"
+        "url": "https://covid-19-tracker-adb51.web.app/"
       },
       {
         "title": "The Salsa Room",
@@ -110,8 +139,8 @@
   "testimonials": {
     "testimonials": [
       {
-        "text": "Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
-        "user": "Kareem Abdul Jabbar"
+        "text": "Mark has good understanding of Javascript and other front-end application development tools. I am confident he can add value to any team he is a part of, and will happily recommend him for any role he sets his sights on.",
+        "user": "Pallavi A.N."
       }
     ]
   }
