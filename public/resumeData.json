@@ -1,10 +1,10 @@
 {
   "main": {
     "name": "Mark Leung",
-    "occupation": "ReactJS Developer",
-    "description": "",
+    "occupation": "Full-Stack Developer",
+    "description": "Technology Geek",
     "image": "IG_Mark.jpg",
-    "bio": "Mark is a passionate and self-driven developer culminated through his 9+ years of experience designing and building enterprise software solutions.",
+    "bio": "Mark is a passionate and self-driven developer culminated through his 10+ years of experience designing and building enterprise software solutions.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "mark.leung89@gmail.com",
     "phone": "+6140 340 6286",
@@ -15,7 +15,7 @@
       "zip": "3000"
     },
     "website": "http://mcleung.me",
-    "resumedownload": "http://timbakerdev.com",
+    "resumedownload": "https://drive.google.com/file/d/12WYa7p6jMci0DSqo2CFl5piWyeVyt5WK/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -30,7 +30,7 @@
     ]
   },
   "resume": {
-    "skillmessage": "Current stack focus on React, Node JS, Express JS and MERN stack applications.",
+    "skillmessage": "",
     "education": [
       {
         "school": "University of Waterloo",
@@ -44,7 +44,8 @@
         "company": "Medibank",
         "title": "Technical Consultant",
         "years": "Nov 2016 - Present",
-        "description": "Medibank is an Australian private health insurance provider. It is Australia's second largest health insurance provider, behind Bupa with 3.5 million members, 26.9% of the market across two brands. My position as a Technology Consultant consists of designing and implementing front-end and back-end enhancements using latest web technologies such as JavaScript and SAP UI5."
+        "description": "Medibank is an Australian private health insurance provider. It is Australia's second largest health insurance provider, behind Bupa with 3.5 million members, 26.9% of the market across two brands.",
+        "responsibilities": "My position as a Technology Consultant consists of designing and implementing front-end and back-end enhancements using latest web technologies such as JavaScript and SAP UI5."
       },
       {
         "company": "SAP",
@@ -85,53 +86,59 @@
     ],
     "skills": [
       {
-        "name": "ReactJs",
-        "level": "100%"
-      },
-      {
         "name": "JavaScript",
-        "level": "100%"
-      },   
+        "level": "85%"
+      },        
+      {
+        "name": "ReactJs",
+        "level": "80%"
+      }, 
+      {
+        "name": "SAPUI5",
+        "level": "80%"
+      },       
       {
         "name": "Node",
-        "level": "60%"
-      },             
+        "level": "70%"
+      },      
       {
-        "name": "CSS",
-        "level": "95%"
-      },
+        "name": "Python",
+        "level": "75%"
+      },                   
       {
         "name": "Git",
-        "level": "60%"
+        "level": "70%"
       },
       {
         "name": "HTML5",
         "level": "80%"
       },
       {
-        "name": "MongoDB",
+        "name": "CSS",
         "level": "80%"
-      }
+      },      
+      {
+        "name": "SQL",
+        "level": "80%"
+      },
+      {
+        "name": "GraphQL",
+        "level": "65%"
+      }    
     ]
   },
   "portfolio": {
     "projects": [
       {
-        "title": "Spotify Clone App",
-        "category": "Spotify Clone built with ReactJS",
-        "image": "whatsapp-mern.jpeg",
-        "url": ""
-      },
-      {
         "title": "COVID-19 Tracker",
         "category": "COVID-19 Tracker built with ReactJS",
-        "image": "tiktok-mern.jpeg",
+        "image": "covid19-tracker.png",
         "url": "https://covid-19-tracker-adb51.web.app/"
       },
       {
         "title": "The Salsa Room",
         "category": "Website built with Tailwind CSS",
-        "image": "facebook-clone.png",
+        "image": "the-salsa-room.png",
         "url": "https://m23leung.github.io/salsa-room-website-html/"
       }
     ]
