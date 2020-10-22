@@ -142,6 +142,12 @@
         "url": "https://covid-19-tracker-adb51.web.app/"
       },
       {
+        "title": "Spotify Clone",
+        "category": "Spotify replica built with ReactJS",
+        "image": "spotify-clone.png",
+        "url": "https://mcleung-spotify.netlify.app"
+      },
+      {
         "title": "The Salsa Room",
         "category": "Website built with Tailwind CSS",
         "image": "the-salsa-room.png",
