@@ -16,7 +16,7 @@ const Contact = ({ data }) => {
     
 
     return (
-      <section id="contact">
+      <section id="contact" data-aos="fade-up-right">
 
          <div className="row section-head">
 
