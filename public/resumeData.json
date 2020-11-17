@@ -148,6 +148,12 @@
         "url": "https://mcleung-spotify.netlify.app"
       },
       {
+        "title": "Ignite Video Game Database",
+        "category": "Video Game site built with ReactJS, Redux",
+        "image": "",
+        "url": "https://m23leung.github.io/ignite-app/"
+      },      
+      {
         "title": "The Salsa Room",
         "category": "Website built with Tailwind CSS",
         "image": "the-salsa-room.png",
