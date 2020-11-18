@@ -15,7 +15,7 @@
       "zip": "3000"
     },
     "website": "http://mcleung.me",
-    "resumedownload": "https://drive.google.com/file/d/1oIx8OkjFEUR4KADLcDTy23_EkRT3qUVZ/view?usp=sharing",
+    "resumedownload": "https://drive.google.com/file/d/1qFEbKEdAsmaaK25boTwTmcHKi5Wu4hp9/view?usp=sharing",
     "social": [
       {
         "name": "linkedin",
@@ -42,52 +42,45 @@
     "work": [
       {
         "company": "Medibank",
-        "title": "Technical Consultant",
+        "title": "Technical Consultant / Full-Stack Developer",
         "years": "Nov 2016 - Present",
-        "description": "Medibank is an Australian private health insurance provider. It is Australia's second largest health insurance provider, behind Bupa with 3.5 million members, 26.9% of the market across two brands.",
-        "responsibilities": ["My position as a Technical Consultant consists of supporting Medibank's diverse SAP systems by designing and implementing front-end and back-end enhancements with latest web technologies such as JavaScript and SAP UI5. I lead the technical upgrade of the Medibank nurse triage system, rewriting the front-end code for compatibility with latest service packs. On top of that, I have developed numerous data analytic programs which are used by stakeholders for day-to-day reporting needs."]
+        "responsibilities": ["Supported Medibank's diverse SAP systems by designing and implementing front-end and back-end enhancements with latest web technologies. Engaged with key stakeholders using technical expertise to solve production critical incidents."]
       },
       {
         "company": "SAP",
-        "title": "Technology Consultant",
+        "title": "Technology Consultant / Full-Stack Developer",
         "years": "May 2012 - Oct 2016",
-        "description": "SAP SE is a German multinational software corporation that makes enterprise software to manage business operations and customer relations. The company is especially known for its ERP software. In terms of revenue, SAP is the largest European and the world's third largest listed software company.",
-        "responsibilities": ["As a Technology Consultant, I was one of the key resources for implementing feasible solutions utilizing my expertise in Java & JavaScript. Responsible for fixing front-end/back-end defects, as well as web services integration across SAP Enterprise solutions with SOAP and REST API;"]        
+        "responsibilities": ["Implemented feasible solutions utilizing expertise in Java & JavaScript. Responsible for fixing front-end/back-end defects, as well as web services integration across SAP Enterprise solutions with SOAP and REST API."]        
       },
       {
         "company": "Ontario Teacher's Pension Plan",
         "title": "Programmer Analyst",
         "years": "May 2011 - Aug 2011",
-        "description": "The Ontario Teachers' Pension Plan Board is an independent organization responsible for administering defined-benefit pensions for school teachers of the Canadian province of Ontario. Ontario Teachers' also invests the plan's pension fund, and is one of the world’s largest institutional investors.",
-        "responsibilities": ["To fulfill the role as a Programmer Analyst, I was keen to make meaningful contributions by delivering a host of new features for the company web portal, with emphasis on widget design for the internal team. I was also was entrusted with building optimization algorithms to significantly reduce the run time of the company's bank transaction processing program."]        
+        "responsibilities": ["Delivered host of new features for the company web portal, with emphasis on widget design for the internal team. I was also was entrusted with building optimization algorithms to significantly reduce the run time of the company's bank transaction processing program."]        
       },
       {
         "company": "TELUS",
         "title": "Software Developer",
         "years": "Sept 2010 - Dec 2010",
-        "description": "Telus Communications Inc. is the wholly owned principal subsidiary of Telus Corporation, a Canadian national telecommunications company that provides a wide range of telecommunications products and services including internet access, voice, entertainment, healthcare, video, and IPTV television.",
-        "responsibilities": ["While working as a Developer, I employed and automated the company's reporting tools, significantly reducing the lead time for business turn-around by over 50 percent. Secondly, I conducted the front-end web redesign from inception to implementation of the company's corporate search portal. Nevertheless, I executed automated test scripts with Selenium IDE to verify the functionality and usability of the corporate client’s website."]       
+        "responsibilities": ["Employed and automated the company's reporting tools, significantly reducing the lead time for business turn-around by over 50 percent. Secondly, I conducted the front-end web redesign from inception to implementation of the company's corporate search portal."]       
       },
       {
         "company": "Symantec",
         "title": "QA Analyst",
         "years": "Jan 2010 - April 2010",
-        "description": "NortonLifeLock Inc. (Formerly Symantec) is an American software company headquartered in Tempe, Arizona, United States. The company provides cybersecurity software and services. NortonLifeLock is a Fortune 500 company and a member of the S&P 500 stock-market index.",
-        "responsibilities": ["Leveraging strong management and relationship skills, I developed shell script based test harness programs to automate formerly manual test cases. I formulated server management scripts to highlight the differences of installed packages and configurations across the company’s Linux servers. I monitored, assessed and executed application tests with industry standard testing tools. In addition, I devised and executed test cases ensuring accurate documentation and reporting of the results."]       
+        "responsibilities": ["Formulated server management scripts to highlight the differences of installed packages and configurations across the company’s Linux servers. I monitored, assessed and executed application tests with industry standard testing tools."]       
       },
       {
         "company": "ecobee",
         "title": "Web Services Developer",
         "years": "May 2009 - August 2009",
-        "description": "ecobee is a Canadian home automation company that makes smart thermostats, temperature and occupancy sensors, smart light switches, smart cameras, and contact sensors. The thermostats are controlled by using the built-in touchscreen, web portal, or app available for iOS, Android, and the Apple Watch.",
-        "responsibilities": ["Throughout my time at ecobee, I developed features for the administrative page, allowing better user experience for the customer support team. I worked with other developers to resolve browser compatibility issues and defects for the ecobee web portal. In addition, I configured and set up frameworks and tools that improved developer productivity and organisational transparency such as automated build, test and code analysis."]      
+        "responsibilities": ["Developed features for the administrative page, allowing better user experience for the customer support team. I worked with other developers to resolve browser compatibility issues and defects for the ecobee web portal."]      
       },
       {
         "company": "Maxxian Integrations",
         "title": "Software Developer",
         "years": "Jan 2008 - April 2008 / Sept 2008 - Dec 2008",
-        "description": "Maxxian is a start-up company focusing on the design and development of distributed architecture solutions for auditing, real-time operations and data warehouse applications for cable operators.",
-        "responsibilities": ["In my role as a Software Developer, I was tasked with improving the client web portal by redesigning and streamlining the user interface for the dashboard menu. Secondly, I was in charge of designing analytical web pages with tables and graphs to better illustrate alarming trends and potential risks. Furthermore, for the purpose of protecting customer sensitive data, I was tasked with building mapping algorithms for database sanitising programs."]       
+        "responsibilities": ["Improved the client web portal by redesigning and streamlining the user interface for the dashboard menu. In addition, I was in charge of designing analytical web pages with tables and graphs to better illustrate alarming trends and potential risks."]       
       }               
     ],
     "skills": [
@@ -110,7 +103,11 @@
       {
         "name": "Python",
         "level": "75%"
-      },                   
+      }, 
+      {
+        "name": "Java",
+        "level": "75%"
+      },                       
       {
         "name": "Git",
         "level": "70%"
@@ -148,9 +145,9 @@
         "url": "https://mcleung-spotify.netlify.app"
       },
       {
-        "title": "Ignite Video Game Database",
+        "title": "Ignite Video Game",
         "category": "Video Game site built with ReactJS, Redux",
-        "image": "",
+        "image": "ignite.png",
         "url": "https://m23leung.github.io/ignite-app/"
       },      
       {
