@@ -7,17 +7,14 @@
     "bio": "Mark is a passionate and self-driven developer culminated through his 10+ years of experience designing and building enterprise software solutions.",
     "contactmessage": "Get in touch with me to receive further details, get coached or anything else.",
     "email": "mark.leung89@gmail.com",
-    "phone": "+6140 340 6286",
     "address": {
-      "street": "8 Franklin St",
       "city": "Melbourne",
       "state": "Australia",
       "zip": "3000"
     },
     "website": "http://mcleung.me",
     "resumedownload": "https://drive.google.com/file/d/1qFEbKEdAsmaaK25boTwTmcHKi5Wu4hp9/view?usp=sharing",
-    "social": [
-      {
+    "social": [{
         "name": "linkedin",
         "url": "https://www.linkedin.com/in/mcleung89",
         "className": "fa fa-linkedin"
@@ -31,83 +28,81 @@
   },
   "resume": {
     "skillmessage": "",
-    "education": [
-      {
-        "school": "University of Waterloo",
-        "degree": "Bachelors of Computer Science w/ Minor in Economics",
-        "graduated": "June 2012",
-        "description": "Graduated with Distinction"
-      }
-    ],
-    "work": [
+    "education": [{
+      "school": "University of Waterloo",
+      "degree": "Bachelors of Computer Science w/ Minor in Economics",
+      "graduated": "June 2012",
+      "description": "Graduated with Distinction"
+    }],
+    "work": [{
+        "company": "REA Group",
+        "title": "Full-Stack Developer",
+        "years": "Dec 2020 - Present",
+        "responsibilities": ["Delivered technical solutions for the Flatmates platform, which allows people to list their spare rooms, find accommodation or team up with others to start a share house."]
+      },
       {
         "company": "Medibank",
         "title": "Technical Consultant / Full-Stack Developer",
-        "years": "Nov 2016 - Present",
+        "years": "Nov 2016 - Nov 2019",
         "responsibilities": ["Supported Medibank's diverse SAP systems by designing and implementing front-end and back-end enhancements with latest web technologies. Engaged with key stakeholders using technical expertise to solve production critical incidents."]
       },
       {
         "company": "SAP",
         "title": "Technology Consultant / Full-Stack Developer",
         "years": "May 2012 - Oct 2016",
-        "responsibilities": ["Implemented feasible solutions utilizing expertise in Java & JavaScript. Responsible for fixing front-end/back-end defects, as well as web services integration across SAP Enterprise solutions with SOAP and REST API."]        
+        "responsibilities": ["Implemented feasible solutions utilizing expertise in Java & JavaScript. Responsible for fixing front-end/back-end defects, as well as web services integration across SAP Enterprise solutions."]
       },
       {
         "company": "Ontario Teacher's Pension Plan",
         "title": "Programmer Analyst",
         "years": "May 2011 - Aug 2011",
-        "responsibilities": ["Delivered host of new features for the company web portal, with emphasis on widget design for the internal team. I was also was entrusted with building optimization algorithms to significantly reduce the run time of the company's bank transaction processing program."]        
+        "responsibilities": ["Delivered host of new features for the company web portal, with emphasis on widget design for the internal team. I was also was entrusted with building optimization algorithms to significantly reduce the run time of the company's bank transaction processing program."]
       },
       {
         "company": "TELUS",
         "title": "Software Developer",
         "years": "Sept 2010 - Dec 2010",
-        "responsibilities": ["Employed and automated the company's reporting tools, significantly reducing the lead time for business turn-around by over 50 percent. Secondly, I conducted the front-end web redesign from inception to implementation of the company's corporate search portal."]       
+        "responsibilities": ["Employed and automated the company's reporting tools, significantly reducing the lead time for business turn-around by over 50 percent. Secondly, I conducted the front-end web redesign from inception to implementation of the company's corporate search portal."]
       },
       {
         "company": "Symantec",
         "title": "QA Analyst",
         "years": "Jan 2010 - April 2010",
-        "responsibilities": ["Formulated server management scripts to highlight the differences of installed packages and configurations across the company’s Linux servers. I monitored, assessed and executed application tests with industry standard testing tools."]       
+        "responsibilities": ["Formulated server management scripts to highlight the differences of installed packages and configurations across the company’s Linux servers. I monitored, assessed and executed application tests with industry standard testing tools."]
       },
       {
         "company": "ecobee",
         "title": "Web Services Developer",
         "years": "May 2009 - August 2009",
-        "responsibilities": ["Developed features for the administrative page, allowing better user experience for the customer support team. I worked with other developers to resolve browser compatibility issues and defects for the ecobee web portal."]      
+        "responsibilities": ["Developed features for the administrative page, allowing better user experience for the customer support team. I worked with other developers to resolve browser compatibility issues and defects for the ecobee web portal."]
       },
       {
         "company": "Maxxian Integrations",
         "title": "Software Developer",
         "years": "Jan 2008 - April 2008 / Sept 2008 - Dec 2008",
-        "responsibilities": ["Improved the client web portal by redesigning and streamlining the user interface for the dashboard menu. In addition, I was in charge of designing analytical web pages with tables and graphs to better illustrate alarming trends and potential risks."]       
-      }               
+        "responsibilities": ["Improved the client web portal by redesigning and streamlining the user interface for the dashboard menu. In addition, I was in charge of designing analytical web pages with tables and graphs to better illustrate alarming trends and potential risks."]
+      }
     ],
-    "skills": [
-      {
+    "skills": [{
         "name": "JavaScript",
         "level": "85%"
-      },        
+      },
       {
         "name": "ReactJs",
         "level": "80%"
-      }, 
-      {
-        "name": "SAPUI5",
-        "level": "80%"
-      },       
+      },
       {
         "name": "Node",
         "level": "70%"
-      },      
+      },
       {
         "name": "Python",
         "level": "75%"
-      }, 
+      },
       {
         "name": "Java",
         "level": "75%"
-      },                       
+      },
       {
         "name": "Git",
         "level": "70%"
@@ -119,7 +114,7 @@
       {
         "name": "CSS",
         "level": "80%"
-      },      
+      },
       {
         "name": "SQL",
         "level": "80%"
@@ -127,12 +122,11 @@
       {
         "name": "GraphQL",
         "level": "65%"
-      }    
+      }
     ]
   },
   "portfolio": {
-    "projects": [
-      {
+    "projects": [{
         "title": "COVID-19 Tracker",
         "category": "COVID-19 Tracker built with ReactJS",
         "image": "covid19-tracker.png",
@@ -149,21 +143,25 @@
         "category": "Video Game site built with ReactJS, Redux",
         "image": "ignite.png",
         "url": "https://m23leung.github.io/ignite-app/"
-      },      
+      },
       {
         "title": "The Salsa Room",
         "category": "Website built with Tailwind CSS",
         "image": "the-salsa-room.png",
         "url": "https://m23leung.github.io/salsa-room-website-html/"
+      },
+      {
+        "title": "Travel Website",
+        "category": "Website for traveling",
+        "image": "travel-website.png",
+        "url": "https://m23leung.github.io/travel-landing/"
       }
     ]
   },
   "testimonials": {
-    "testimonials": [
-      {
-        "text": "Mark has good understanding of Javascript and other front-end application development tools. I am confident he can add value to any team he is a part of, and will happily recommend him for any role he sets his sights on.",
-        "user": "Pallavi A.N."
-      }
-    ]
+    "testimonials": [{
+      "text": "Mark has good understanding of Javascript and other front-end application development tools. I am confident he can add value to any team he is a part of, and will happily recommend him for any role he sets his sights on.",
+      "user": "Pallavi A.N."
+    }]
   }
 }
